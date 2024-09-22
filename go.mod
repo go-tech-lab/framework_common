@@ -1,4 +1,4 @@
-module github.com/go-tech-lab/framework/common
+module github.com/go-tech-lab/framework/framework_common
 
 go 1.14
 
